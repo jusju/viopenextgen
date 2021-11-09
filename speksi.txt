@@ -1,3 +1,5 @@
 
 - yksikkötestaus on kontissa Viopen ulkopuolinen asia
+- konttien suhteen voi tehdä 
+- halutaan muuta kuin että input ja output ja kielletyt ja sallitut sanat
 - 
